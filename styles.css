@@ -159,6 +159,14 @@
         text-align: right;
         background-color: #fff;
     } */
+
+    #visual_box {
+        margin-right: 100%;
+        margin-top: 30px;
+        padding: 30px;
+        background-color: #fff;  
+        display: block;
+    }
 }
 
 
